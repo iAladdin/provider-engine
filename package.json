@@ -19,7 +19,7 @@
     "backoff": "^2.5.0",
     "clone": "^2.0.0",
     "cross-fetch": "^2.1.0",
-    "eth-block-tracker": "git@github.com:iAladdin/eth-block-tracker.git#89fe69c",
+    "eth-block-tracker": "git+ssh://git@github.com/iAladdin/eth-block-tracker.git#89fe69c",
     "eth-json-rpc-infura": "^3.1.0",
     "eth-sig-util": "^1.4.2",
     "ethereumjs-block": "^1.2.2",
